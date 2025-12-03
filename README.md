@@ -33,16 +33,16 @@ This portfolio showcases REAL investigations, not theory.
 
 | Project | Description | Link |
 |--------|-------------|------|
-|  *SIEM Investigation Labs* | Linux forensics, brute-force detection, failed login investigation, script behavior analysis | <a href="YOUR_SIEM_REPO_LINK" target="_blank"> View Repo<https://github.com/alexojocyber/SIEM-Investigation-Labs-SIEM-Investigation-Labs> |
-|  *Wireshark Network Analysis* | DNS, TCP handshake, ARP, HTTP/TLS packet inspection with full screenshots | <a href="YOUR_WIRESHARK_REPO_LINK" target="_blank"> View Repo<https://github.com/alexojocyber/Wireshark-Network-Analysis> |
+|  *SIEM Investigation Labs* | Linux forensics, brute-force detection, failed login investigation, script behavior analysis | <a href="YOUR_SIEM_REPO_LINK" target="_blank"> View Repo <https://github.com/alexojocyber/SIEM-Investigation-Labs-SIEM-Investigation-Labs> |
+|  *Wireshark Network Analysis* | DNS, TCP handshake, ARP, HTTP/TLS packet inspection with full screenshots | <a href="YOUR_WIRESHARK_REPO_LINK" target="_blank"> View Repo <https://github.com/alexojocyber/Wireshark-Network-Analysis> |
 |  *Network Analysis Reports* | Markdown protocol analysis: DNS, TCP, ARP, TLS + diagrams | <a href="YOUR_REPORTS_REPO_LINK" target="_blank"> View Repo</a> |
-|  *Cybersecurity Portfolio* | This main portfolio repo summarizing all cybersecurity work |  [Current Repo ](https://github.com/alexojocyber/cybersecurity-portfolio-README.md)|
+|  *Cybersecurity Portfolio* | This main portfolio repo summarizing all cybersecurity work |  Current Repo (https://github.com/alexojocyber/cybersecurity-portfolio-README.md)|
 
 
 
 ---
 
-# 🛡 Skills & Technologies
+#  Skills & Technologies
 
 ###  Platforms  
 🔹 Kali Linux  
