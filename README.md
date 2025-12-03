@@ -33,9 +33,9 @@ This portfolio shows my *practical, hands-on cybersecurity experience*.
 
 | Project | Description | Link |
 |--------|-------------|------|
-|  *SIEM Investigation Labs* | Linux forensics, SSH brute-force analysis, failed login investigation, unauthorized script behavior | [View Repo] (https://github.com/alexojocyber/SIEM-Investigation-Labs-SIEM-Investigation-Labs)|
-|  *Wireshark Network Analysis* | DNS, TCP handshake, ARP, HTTP/TLS packet analysis with screenshots | [View Repo] (https://github.com/alexojocyber/Wireshark-Network-Analysis) |
-|  *Network Analysis Reports (DNS/TCP/ARP/TLS)* | Markdown-based protocol analysis with diagrams & explanations | [View Repo] () |
+|  *SIEM Investigation Labs* | Linux forensics, SSH brute-force analysis, failed login investigation, unauthorized script behavior | [ View Repo ] (https://github.com/alexojocyber/SIEM-Investigation-Labs-SIEM-Investigation-Labs)|
+|  *Wireshark Network Analysis* | DNS, TCP handshake, ARP, HTTP/TLS packet analysis with screenshots | [ View Repo ] (https://github.com/alexojocyber/Wireshark-Network-Analysis) |
+|  *Network Analysis Reports (DNS/TCP/ARP/TLS)* | Markdown-based protocol analysis with diagrams & explanations | [ View Repo ] () |
 |  *Cybersecurity Portfolio* | This main portfolio repo summarizing all my work | [View Repo] (https://github.com/alexojocyber/cybersecurity-portfolio-README.md) |
 
 ---
