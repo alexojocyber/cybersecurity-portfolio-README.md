@@ -1,173 +1,148 @@
-<h1 align="center">🔐 Alex Ojo — Cybersecurity Portfolio</h1>
+<h1 align="center"> ALEX OJO — CYBERSECURITY PORTFOLIO</h1>
 
 <p align="center">
-  <strong>Cybersecurity Analyst | SOC Analyst (Tier 1) | Blue Teaming | Linux Security | Bash | SIEM | Network Analysis</strong>
+  <strong>Cybersecurity Analyst | SOC Analyst (Tier 1) | Blue Team | Linux & Network Security | SIEM | Wireshark</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alex-ojocyber">LinkedIn</a> •
-  <a href="mailto:ojoo.alexxx@gmail.com">Email</a> •
-  <a href="https://github.com/alexojocyber">GitHub</a>
+  <a href="https://www.linkedin.com/in/alex-ojocyber" target="_blank">LinkedIn</a> •
+  <a href="mailto:ojoo.alexxx@gmail.com" target="_blank">Email</a> •
+  <a href="https://github.com/alexojocyber" target="_blank">GitHub</a>
 </p>
 
 ---
 
-# 🧩 About Me
-I am *Alex Ojo, an aspiring **Cybersecurity Analyst / SOC Analyst*, currently building strong hands-on skills in:
+#  About This Portfolio
+This GitHub portfolio showcases my hands-on cybersecurity experience, including:
 
-- Linux security  
-- SIEM investigations  
-- Log analysis  
-- Network forensics  
-- Incident detection  
-- Bash automation  
-- Brute-force detection  
-- Security monitoring  
-
-I completed the *Google Cybersecurity Professional Certificate* and the *IBM Cybersecurity course*, and I am actively developing SOC-ready projects.
-
-This portfolio shows my *practical cybersecurity skills*, not just theory.
+- Log analysis & brute-force detection  
+- Linux security tasks  
+- Bash scripting projects  
+- Wireshark network traffic investigation  
+- SOC-style reporting  
+- Authentication forensics  
+- Real-world attack simulations  
 
 ---
 
-# 🧪 Projects Overview (Click to View)
+#  Featured Projects
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🧱 *SIEM Investigation Labs* | Brute-force detection, log analysis, SSH forensic logs, Bash automation | [View Repo](https://github.com/alexojocyber/SIEM-Investigation-Labs) |
-| 🌐 *Wireshark Network Analysis* | DNS, TCP handshake, ARP, HTTP/TLS traffic analysis with screenshots | [View Repo](https://github.com/alexojocyber/Wireshark-Network-Analysis) |
-| 🔐 *Failed Login Analyzer* | Custom Bash script that extracts usernames, IPs, brute-force attempts | [View Repo](https://github.com/alexojocyber/Bash-Log-Analyzer) |
-| 💻 *Linux File & Script Investigation* | File manipulation, script logic, malicious behavior analysis | Included in SIEM Labs |
-| 🪟 *Windows Security Monitoring (Coming Soon)* | Event Viewer logs, PowerShell logs, process creation events | Coming Soon |
+| *System Health Checker (Bash)* | Bash script for monitoring CPU/memory usage, uptime, and active processes | [View Repo](https://github.com/alexojocyber/System-Health-Checker-Bash) |
+| *Linux Security Tasks* | Linux commands + security tasks from Google Cybersecurity Certificate | [View Repo](https://github.com/alexojocyber/Linux-Security-Tasks) |
+| *SIEM Investigation Lab* | SSH brute-force investigation, failed login forensics, suspicious script analysis | [View Repo](https://github.com/alexojocyber/SIEM-Investigation-Lab) |
+| *Wireshark Network Analysis* | DNS, ARP, TCP handshake, TLS, HTTP analysis with screenshots | [View Repo](https://github.com/alexojocyber/Wireshark-Network-Analysis) |
+| *Cybersecurity Portfolio (This Repo)* | Main page containing all projects and documentation | Current Repo |
 
 ---
 
-# 🛡 Skills & Technologies
+#  Skills
 
-### 🔹 *Platforms*
-- Linux (Kali, Debian-based)
-- Windows 10/11 Security
-- VirtualBox
-
-### 🔹 *Blue Team Tools*
-- Wireshark  
-- Hydra (attack simulation)  
-- journalctl & syslog  
-- Linux authentication logs  
-- Event Viewer  
-- SSH  
-
-### 🔹 *Security Concepts*
-- Brute-force detection  
-- SSH hardening  
-- Incident response  
-- Log forensics  
+###  Security & Blue Team  
+- Log analysis (journalctl, syslog, auth logs)  
+- SSH brute-force detection  
+- Bash script investigation  
+- Linux file & process monitoring  
+- Incident triage & reporting  
+- IOC extraction  
 - MITRE ATT&CK mapping  
-- File integrity & script behavior analysis  
 
-### 🔹 *Scripting & Automation*
-- Bash scripting  
-- Log parsing  
-- Linux CLI utilities:
-  - grep  
-  - awk  
-  - sort  
-  - wc  
-  - cut  
+###  Networking  
+- DNS lookups  
+- TCP 3-way handshake  
+- ARP protocol  
+- HTTP/TLS handshake  
+- Packet capture analysis  
+- PCAP inspection  
 
-### 🔹 *Networking*
-- DNS  
-- TCP Handshake  
-- ARP  
-- HTTP & TLS  
-- Packet analysis  
+###  Tools  
+- Wireshark  
+- Hydra  
+- grep, awk, sed, sort, wc  
+- Bash shell scripting  
+- VirtualBox  
+- Linux (Kali & Ubuntu)  
+
+###  Reporting  
+- SOC-style investigation reports  
+- Technical documentation  
+- Findings, impact & mitigation  
+- Markdown documentation  
 
 ---
 
-# 🎓 Certifications
+#  Certifications
 
 | Certification | Issued By | Status |
-|--------------|-----------|--------|
-| *Google Cybersecurity Professional Certificate* | Google | ✔ Completed |
-| *IBM Cybersecurity Analyst Course* | IBM SkillsBuild | ✔ Completed |
-| *TryHackMe* | THM | 🔄 In Progress |
-| *SIEM | Linux | Network Analysis Labs* | Self-directed | ✔ Completed |
+|--------------|------------|--------|
+| Google Cybersecurity Certificate | Google | ✔ Completed |
+| IBM Cybersecurity Analyst | IBM SkillsBuild | ✔ Completed |
+| TryHackMe | TryHackMe |  In Progress |
+| Linux & Network Labs | Self-directed | ✔ Completed |
 
 ---
 
-# 🔥 Key Projects (Detailed Summaries)
+#  Project Summaries
+
+## *1. System Health Checker (Bash)*
+A Linux Bash script that monitors:
+- CPU load  
+- RAM usage  
+- System uptime  
+- Active processes  
+
+Includes automation, logging, and CLI checks.
+
+ Repo:  
+https://github.com/alexojocyber/System-Health-Checker-Bash
 
 ---
 
-## 🧱 1. SIEM Investigation Labs (Linux Log Forensics)
-*Skills demonstrated:*  
-✔ SSH brute-force detection  
-✔ journalctl log analysis  
-✔ attacker IP analysis  
-✔ bash scripting  
-✔ SOC report writing  
-✔ SSH hardening recommendations  
+## *2. Linux Security Tasks*
+Covers security-relevant Linux topics learned from the Google Cybersecurity Certificate:
+- File permissions  
+- sudo & user accounts  
+- systemctl & process management  
+- grep/awk/sed for log analysis  
+- log file investigation  
 
-*Investigations included:*  
-- Investigation 1: Failed Login Analyzer  
-- Investigation 2: SSH Brute Force attack (Hydra)  
-- Investigation 3: Unauthorized File/Script Manipulation  
-
-📌 *Link:*  
-👉 https://github.com/alexojocyber/SIEM-Investigation-Labs
+ Repo:  
+https://github.com/alexojocyber/Linux-Security-Tasks
 
 ---
 
-## 🌐 2. Wireshark Network Analysis
-Analyzed core network protocols:
+## *3. SIEM Investigation Lab*
+SOC-style investigations including:
+- Failed login triage  
+- SSH brute-force detection  
+- Username/IP extraction  
+- Malicious script behavior  
+- Forensic log analysis  
 
-- DNS query/response  
+ Repo:  
+https://github.com/alexojocyber/SIEM-Investigation-Lab
+
+---
+
+## *4. Wireshark Network Analysis*
+Includes protocol-level analysis with screenshots:
+- DNS Query/Response  
+- ARP Broadcast/Reply  
 - TCP 3-way handshake  
-- ARP broadcast & reply  
-- HTTP/TLS traffic  
+- TLS handshake  
+- HTTP traffic behavior  
 
-Includes packet screenshots + professional analysis reports.
-
-📌 *Link:*  
-👉 https://github.com/alexojocyber/Wireshark-Network-Analysis
+Repo:  
+https://github.com/alexojocyber/Wireshark-Network-Analysis
 
 ---
 
-## 🔐 3. Bash Log Analyzer (Security Automation)
-A custom script that extracts:
-
-- failed login attempts  
-- targeted usernames  
-- attacking IPs  
-- most frequent brute-force hosts  
-
-Built with awk, grep, sort, and wc.
-
-📌 *Link:*  
-👉 https://github.com/alexojocyber/Bash-Log-Analyzer
+#  Contact
+📧 Email: *ojoo.alexxx@gmail.com*  
+🔗 LinkedIn: **https://www.linkedin.com/in/alex-ojocyber**  
+💻 GitHub: **https://github.com/alexojocyber**
 
 ---
 
-# 🚀 My Cybersecurity Journey
-I am building:
-
-- a strong SOC skillset  
-- a professional security portfolio  
-- hands-on investigation projects  
-- automation tools & Linux knowledge  
-
-My goal is to transition into an *entry-level cybersecurity or SOC analyst role*, where I can continue learning while contributing to security operations.
-
----
-
-# 📫 Contact Me
-
-- 🌐 GitHub: *@alexojocyber*  
-- 💼 LinkedIn: *linkedin.com/in/alex-ojocyber*  
-- 📧 Email: *ojoo.alexxx@gmail.com*
-
----
-
-<p align="center">
-  ⭐ If you like my work, please star my repositories!
-</p>
+<p align="center">⭐ If you found my projects helpful, feel free to star the repositories!</p>
