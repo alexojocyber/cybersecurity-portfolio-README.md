@@ -1,10 +1,10 @@
 <img width="1536" height="1024" alt="alex-cybersecurity-banner jpg" src="https://github.com/user-attachments/assets/01af0599-65f4-4086-a88d-c6f4f71e67d4" />
+
 <h1 align="center"> ALEX OJO — CYBERSECURITY PORTFOLIO</h1>
 
-
-
 <p align="center">
-  <strong>Cybersecurity Analyst | SOC Analyst (Tier 1) | Blue Team | Linux & Network Security | SIEM | Wireshark</strong>
+  <strong>Cybersecurity Student | Google Cybersecurity Certified | Aspiring SOC Analyst (Tier 1)</strong><br>
+  <strong>Blue Team • Linux Security • Network Analysis • SIEM • Bash</strong>
 </p>
 
 <p align="center">
@@ -16,15 +16,17 @@
 ---
 
 #  About This Portfolio
-This GitHub portfolio showcases my hands-on cybersecurity experience, including:
+This portfolio highlights my hands-on cybersecurity projects focused on:
 
-- Log analysis & brute-force detection  
-- Linux security tasks  
-- Bash scripting projects  
-- Wireshark network traffic investigation  
-- SOC-style reporting  
-- Authentication forensics  
-- Real-world attack simulations  
+- Log analysis and authentication forensics  
+- SSH brute-force detection  
+- SIEM-style investigations  
+- Linux security and system auditing  
+- Bash scripting for automation  
+- Wireshark traffic analysis (DNS, TCP, ARP, TLS, HTTP)  
+- SOC-style reporting and documentation  
+
+All projects are based on real-world defensive workflows used by Tier 1 SOC Analysts.
 
 ---
 
@@ -32,70 +34,72 @@ This GitHub portfolio showcases my hands-on cybersecurity experience, including:
 
 | Project | Description | Link |
 |--------|-------------|------|
-| *System Health Checker (Bash)* | Bash script for monitoring CPU/memory usage, uptime, and active processes | [View Repo](https://github.com/alexojocyber/System-Health-Checker-Bash) |
-| *Linux Security Tasks* | Linux commands + security tasks from Google Cybersecurity Certificate | [View Repo](https://github.com/alexojocyber/Linux-Security-Tasks) |
-| *SIEM Investigation Lab* | SSH brute-force investigation, failed login forensics, suspicious script analysis | [View Repo](https://github.com/alexojocyber/SIEM-Investigation-Lab) |
-| *Wireshark Network Analysis* | DNS, ARP, TCP handshake, TLS, HTTP analysis with screenshots | [View Repo](https://github.com/alexojocyber/Wireshark-Network-Analysis) |
-| *Cybersecurity Portfolio (This Repo)* | Main page containing all projects and documentation | Current Repo |
+| *System Health Checker (Bash)* | Automated Linux script for CPU/RAM monitoring, uptime checks, and process visibility | [View Repo](https://github.com/alexojocyber/System-Health-Checker-Bash) |
+| *Linux Security Tasks* | Linux security tasks, log analysis, permissions, and system auditing from the Google Cybersecurity Certificate | [View Repo](https://github.com/alexojocyber/Linux-Security-Tasks) |
+| *SIEM Investigation Lab* | SSH brute-force analysis, failed login triage, and malicious script investigation using Linux log files | [View Repo](https://github.com/alexojocyber/SIEM-Investigation-Lab) |
+| *Wireshark Network Analysis* | Packet investigations: DNS, ARP, TCP handshake, TLS negotiation, and HTTP behavior | [View Repo](https://github.com/alexojocyber/Wireshark-Network-Analysis) |
+| *Cybersecurity Portfolio (This Repo)* | Main index containing all cybersecurity projects | Current Repo |
 
 ---
 
 #  Skills
 
 ###  Security & Blue Team  
-- Log analysis (journalctl, syslog, auth logs)  
-- SSH brute-force detection  
-- Bash script investigation  
-- Linux file & process monitoring  
-- Incident triage & reporting  
-- IOC extraction  
-- MITRE ATT&CK mapping  
+- Log analysis (auth.log, syslog, journalctl)  
+- SSH brute-force identification  
+- Linux user/session forensics  
+- Process & file integrity monitoring  
+- Incident triage & alert verification  
+- IOC extraction & threat interpretation  
+- Basic MITRE ATT&CK mapping  
 
 ###  Networking  
-- DNS lookups  
+- DNS query/response  
+- ARP broadcast & resolution  
 - TCP 3-way handshake  
-- ARP protocol  
-- HTTP/TLS handshake  
-- Packet capture analysis  
-- PCAP inspection  
+- TLS handshake layers  
+- HTTP request/response analysis  
+- PCAP investigation with Wireshark  
 
-###  Tools  
+###  Tools & Technologies  
 - Wireshark  
 - Hydra  
-- grep, awk, sed, sort, wc  
-- Bash shell scripting  
+- Bash scripting  
+- grep • awk • sed  
+- Nmap (basic scanning)  
 - VirtualBox  
-- Linux (Kali & Ubuntu)  
+- Linux (Kali, Ubuntu)  
 
-###  Reporting  
+###  Reporting & Documentation  
 - SOC-style investigation reports  
-- Technical documentation  
-- Findings, impact & mitigation  
+- Technical documentation writing  
+- Evidence extraction & structure  
 - Markdown documentation  
 
 ---
 
 #  Certifications
 
-| Certification | Issued By | Status |
-|--------------|------------|--------|
-| Google Cybersecurity Certificate | Google | ✔ Completed |
-| IBM Cybersecurity Analyst | IBM SkillsBuild | ✔ Completed |
-| TryHackMe | TryHackMe |  In Progress |
-| Linux & Network Labs | Self-directed | ✔ Completed |
+| Certification | Provider | Status |
+|--------------|----------|--------|
+| Google Cybersecurity Professional Certificate | Google | ✔ Completed |
+| IBM Cybersecurity Analyst Fundamentals | IBM SkillsBuild | ✔ Completed |
+| TryHackMe Labs | TryHackMe |  In Progress |
+| Linux & Network Security Labs | Self-directed | ✔ Completed |
 
 ---
 
 #  Project Summaries
 
 ## *1. System Health Checker (Bash)*
-A Linux Bash script that monitors:
-- CPU load  
-- RAM usage  
-- System uptime  
-- Active processes  
+A Bash-based Linux automation script that performs:
 
-Includes automation, logging, and CLI checks.
+- CPU load checks  
+- RAM usage inspection  
+- System uptime visibility  
+- Active process enumeration  
+
+Includes logging and CLI-friendly output for monitoring.
 
  Repo:  
 https://github.com/alexojocyber/System-Health-Checker-Bash
@@ -103,12 +107,13 @@ https://github.com/alexojocyber/System-Health-Checker-Bash
 ---
 
 ## *2. Linux Security Tasks*
-Covers security-relevant Linux topics learned from the Google Cybersecurity Certificate:
-- File permissions  
-- sudo & user accounts  
-- systemctl & process management  
-- grep/awk/sed for log analysis  
-- log file investigation  
+Linux security fundamentals from the Google Cybersecurity Certificate, including:
+
+- File permissions & user management  
+- sudo & privilege controls  
+- Process auditing with systemctl  
+- Log analysis with grep/awk/sed  
+- forensic review of authentication events  
 
  Repo:  
 https://github.com/alexojocyber/Linux-Security-Tasks
@@ -116,12 +121,13 @@ https://github.com/alexojocyber/Linux-Security-Tasks
 ---
 
 ## *3. SIEM Investigation Lab*
-SOC-style investigations including:
-- Failed login triage  
-- SSH brute-force detection  
-- Username/IP extraction  
-- Malicious script behavior  
-- Forensic log analysis  
+A collection of SOC-style investigations using real Linux logs:
+
+- Failed login analysis  
+- SSH brute-force correlation  
+- Username/IP enumeration  
+- Suspicious Bash script activity  
+- Event correlation & reporting  
 
  Repo:  
 https://github.com/alexojocyber/SIEM-Investigation-Lab
@@ -129,12 +135,15 @@ https://github.com/alexojocyber/SIEM-Investigation-Lab
 ---
 
 ## *4. Wireshark Network Analysis*
-Includes protocol-level analysis with screenshots:
-- DNS Query/Response  
-- ARP Broadcast/Reply  
+Protocol analysis including:
+
+- DNS resolution  
+- ARP broadcast + reply  
 - TCP 3-way handshake  
-- TLS handshake  
-- HTTP traffic behavior  
+- TLS handshake structure  
+- HTTP request/response behavior  
+
+Includes screenshots and packet interpretations.
 
 Repo:  
 https://github.com/alexojocyber/Wireshark-Network-Analysis
@@ -143,9 +152,9 @@ https://github.com/alexojocyber/Wireshark-Network-Analysis
 
 #  Contact
 📧 Email: *ojoo.alexxx@gmail.com*  
-🔗 LinkedIn: **https://www.linkedin.com/in/alex-ojocyber**  
-💻 GitHub: **https://github.com/alexojocyber**
+🔗 LinkedIn: *https://www.linkedin.com/in/alex-ojocyber*  
+💻 GitHub: *https://github.com/alexojocyber*
 
 ---
 
-<p align="center">⭐ If you found my projects helpful, feel free to star the repositories!</p>
+<p align="center">⭐ If you find my work helpful, feel free to star the repositories!</p>
