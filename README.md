@@ -1,5 +1,6 @@
-<h1 align="center"> ALEX OJO — CYBERSECURITY PORTFOLIO</h1>
 <img width="1536" height="1024" alt="alex-cybersecurity-banner jpg" src="https://github.com/user-attachments/assets/dbb4b55f-3890-4490-ad81-ce3983989927" />
+<h1 align="center"> ALEX OJO — CYBERSECURITY PORTFOLIO</h1>
+
 
 
 <p align="center">
