@@ -1,5 +1,6 @@
-<h1 alig<img width="1536" height="1024" alt="alex-cybersecurity-banner jpg" src="https://github.com/user-attachments/assets/8c369d6a-94da-42c6-9f9f-9f921cd8388f" />
-n="center"> ALEX OJO — CYBERSECURITY PORTFOLIO</h1>
+<h1 align="center"> ALEX OJO — CYBERSECURITY PORTFOLIO</h1>
+<img width="1536" height="1024" alt="alex-cybersecurity-banner jpg" src="https://github.com/user-attachments/assets/dbb4b55f-3890-4490-ad81-ce3983989927" />
+
 
 <p align="center">
   <strong>Cybersecurity Analyst | SOC Analyst (Tier 1) | Blue Team | Linux & Network Security | SIEM | Wireshark</strong>
